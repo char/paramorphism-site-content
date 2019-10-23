@@ -2,7 +2,7 @@
 
 # of
 
-`fun of(config: `[`File`](https://docs.oracle.com/javase/6/docs/api/java/io/File.html)`): ParamorphismJacksonConfig`
+`fun of(config: `[`File`](https://docs.oracle.com/javase/6/docs/api/java/io/File.html)`): `[`ParamorphismConfig`](index.md)
 
 Utility function.
 

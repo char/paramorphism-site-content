@@ -29,4 +29,4 @@ Contains global configuration values to define the behaviour of the program as a
 
 | Name | Summary |
 |---|---|
-| [of](of.md) | Utility function.`fun of(config: `[`File`](https://docs.oracle.com/javase/6/docs/api/java/io/File.html)`): ParamorphismJacksonConfig` |
+| [of](of.md) | Utility function.`fun of(config: `[`File`](https://docs.oracle.com/javase/6/docs/api/java/io/File.html)`): `[`ParamorphismConfig`](./index.md) |

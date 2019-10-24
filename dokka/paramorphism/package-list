@@ -6,3 +6,4 @@ site.hackery.paramorphism.api.config
 site.hackery.paramorphism.api.config.strategies.corruption
 site.hackery.paramorphism.api.config.strategies.obfuscation
 site.hackery.paramorphism.api.config.util
+site.hackery.paramorphism.launch

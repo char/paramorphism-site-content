@@ -11,6 +11,7 @@ Paramorphism is a JVM bytecode obfuscator for Java SE 8 and above.
 | [site.hackery.paramorphism.api.config.strategies.corruption](site.hackery.paramorphism.api.config.strategies.corruption/index.md) | Contains configuration objects for obfuscation strategies in the "corruption" category. |
 | [site.hackery.paramorphism.api.config.strategies.obfuscation](site.hackery.paramorphism.api.config.strategies.obfuscation/index.md) | Contains configuration objects for obfuscation strategies in the "obfuscation" category. |
 | [site.hackery.paramorphism.api.config.util](site.hackery.paramorphism.api.config.util/index.md) | Contains utility classes that aid in defining configuration classes for Paramorphism. |
+| [site.hackery.paramorphism.launch](site.hackery.paramorphism.launch/index.md) | Contains methods for starting the obfuscator. |
 
 ### Index
 

@@ -18,3 +18,10 @@ input: hello-world.jar
 ```
 
 This will emit an obfuscated 'Hello, world!' program next to `hello-world.jar` named `hello-world.obf.jar`.
+
+## Community
+
+You can join the [Discord server](https://discord.gg/DT5NfYT) for informal support and discussion of Java obfuscation.
+
+If you are a paying customer, message the lead developer to be allocated the Customer role
+(automation of this is planned), and be able to talk in places other than the 'off-topic' channel.

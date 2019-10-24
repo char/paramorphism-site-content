@@ -1,6 +1,10 @@
-# Introduction
+---
+title: Introduction
+---
 
-Paramorphism is an obfuscator for JVM (Java Virtual Machine) bytecode. Paramorphism supports (and is tested with) Java 8, Java 13, Kotlin, and Groovy, but should work on other languages as long as they do not heavily rely on by-name dynamic dispatch (i.e. reflection)
+Paramorphism is an obfuscator for JVM (Java Virtual Machine) bytecode.
+
+Paramorphism supports (and is tested with) Java 8, Java 13, Kotlin, and Groovy, but should work on other languages as long as they do not heavily rely on by-name dynamic dispatch (i.e. reflection).
 
 ## Quick Guide
 

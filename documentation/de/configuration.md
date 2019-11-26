@@ -26,8 +26,6 @@ Dies liegt daran, dass der Obfuscator die Vererbungshierarchie der Klassen verar
 
 ## Element Masks
 
-An element mask defines which elements are to be included and excluded in an obfuscation pass. The global mask is defined by the `mask` entry in the configuration file, and controls which classes **any** obfuscation strategy can touch.
-
 Eine Element Mask definiert welche Elemente von dem Obfuscation Prozess ein- und ausgeschlossen werden. Die globale Maske wird von dem `mask` Eintrag in der Konfigurationsdatei definiert und kontrolliert welche Klassen von **irgendeiner** Obfuscation Strategie angefasst werden können.
 
 ```yml

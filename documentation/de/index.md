@@ -30,6 +30,4 @@ Du kannst unseren [Discord server](https://discord.gg/DT5NfYT) für informativen
 
 Falls du ein zahlender Kunde bist, dann schreibe den leitenden Programmier an, um die 'Customer' Rolle zu bekommen (die Automatisierung dieses Prozesses ist geplannt), damit du in anderen Orten als in den 'off-topic' Channel zu schreiben kannst.
 
-If you wish to report issues that occur during obfuscation (e.g. program behaviour breaks or the obfuscator crashes when trying to parse a project), please head on over to the project's [GitHub issue tracker](https://github.com/SerenityEnterprises/paramorphism-issues/).
-
 Falls du das Verlangen hast ein Problem, das während der Obfuscation auftritt (z.B. Programmverhalten fehlerhaft oder der Obfuscator crasht beim Versuch das Projekt zu parsen), zu melden, dann gehe zum [GitHub issue tracker](https://github.com/SerenityEnterprises/paramorphism-issues/) des Projekts.

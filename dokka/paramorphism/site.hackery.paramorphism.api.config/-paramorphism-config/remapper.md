@@ -2,9 +2,9 @@
 
 # remapper
 
-`open val remapper: `[`RemappingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.obfuscation/-remapping-strategy-config/index.md)
+`open val remapper: `[`RemappingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.obfuscation.remapper/-remapping-strategy-config/index.md)
 
 **See Also**
 
-[RemappingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.obfuscation/-remapping-strategy-config/index.md)
+[RemappingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.obfuscation.remapper/-remapping-strategy-config/index.md)
 

@@ -2,9 +2,9 @@
 
 # kotlinIntrinsicsConcealing
 
-`open val kotlinIntrinsicsConcealing: `[`KotlinIntrinsicsConcealingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.obfuscation/-kotlin-intrinsics-concealing-strategy-config.md)
+`open val kotlinIntrinsicsConcealing: `[`KotlinIntrinsicsConcealingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.obfuscation.kotlin/-kotlin-intrinsics-concealing-strategy-config.md)
 
 **See Also**
 
-[KotlinIntrinsicsConcealingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.obfuscation/-kotlin-intrinsics-concealing-strategy-config.md)
+[KotlinIntrinsicsConcealingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.obfuscation.kotlin/-kotlin-intrinsics-concealing-strategy-config.md)
 

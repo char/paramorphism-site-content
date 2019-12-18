@@ -2,9 +2,9 @@
 
 # lineNumberStripping
 
-`open val lineNumberStripping: `[`LineNumberStrippingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.obfuscation/-line-number-stripping-strategy-config.md)
+`open val lineNumberStripping: `[`LineNumberStrippingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.obfuscation.stripping/-line-number-stripping-strategy-config.md)
 
 **See Also**
 
-[LineNumberStrippingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.obfuscation/-line-number-stripping-strategy-config.md)
+[LineNumberStrippingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.obfuscation.stripping/-line-number-stripping-strategy-config.md)
 

@@ -11,6 +11,7 @@ Contains classes used for configuring the behaviour of Paramorphism.
 | [ElementMask](-element-mask/index.md) | Determines which elements to let through based on its 'include' and 'exclude' values.`interface ElementMask` |
 | [ParamorphismConfig](-paramorphism-config/index.md) | Contains global configuration values to define the behaviour of the program as a whole.`interface ParamorphismConfig` |
 | [StrategyConfiguration](-strategy-configuration/index.md) | Contains base values needed for all obfuscation strategies.`interface StrategyConfiguration` |
+| [StrategyIrregularity](-strategy-irregularity.md) | For internal use. Some irregularities can determine the default [StrategyConfiguration.enabled](-strategy-configuration/enabled.md) state.`interface StrategyIrregularity` |
 
 ### Exceptions
 

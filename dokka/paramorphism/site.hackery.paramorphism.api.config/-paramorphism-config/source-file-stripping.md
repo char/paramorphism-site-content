@@ -2,9 +2,9 @@
 
 # sourceFileStripping
 
-`open val sourceFileStripping: `[`SourceFileStrippingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.obfuscation/-source-file-stripping-strategy-config/index.md)
+`open val sourceFileStripping: `[`SourceFileStrippingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.obfuscation.stripping/-source-file-stripping-strategy-config/index.md)
 
 **See Also**
 
-[SourceFileStrippingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.obfuscation/-source-file-stripping-strategy-config/index.md)
+[SourceFileStrippingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.obfuscation.stripping/-source-file-stripping-strategy-config/index.md)
 

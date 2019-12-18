@@ -3,7 +3,17 @@ $dokka.linkExtension:md
 
 site.hackery.paramorphism.api
 site.hackery.paramorphism.api.config
+site.hackery.paramorphism.api.config.naming
+site.hackery.paramorphism.api.config.strategies.concealment
 site.hackery.paramorphism.api.config.strategies.corruption
-site.hackery.paramorphism.api.config.strategies.obfuscation
+site.hackery.paramorphism.api.config.strategies.obfuscation.flow
+site.hackery.paramorphism.api.config.strategies.obfuscation.kotlin
+site.hackery.paramorphism.api.config.strategies.obfuscation.remapper
+site.hackery.paramorphism.api.config.strategies.obfuscation.stripping
+site.hackery.paramorphism.api.config.strategies.packing
+site.hackery.paramorphism.api.config.strategies.scenarios.spigot
 site.hackery.paramorphism.api.config.util
+site.hackery.paramorphism.api.custom
+site.hackery.paramorphism.api.naming
+site.hackery.paramorphism.api.resources
 site.hackery.paramorphism.launch

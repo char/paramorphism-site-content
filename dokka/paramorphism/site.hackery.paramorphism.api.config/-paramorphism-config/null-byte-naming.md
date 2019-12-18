@@ -2,9 +2,9 @@
 
 # nullByteNaming
 
-`open val nullByteNaming: `[`NullByteNamingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.corruption/-null-byte-naming-strategy-config.md)
+`open val nullByteNaming: `[`NullByteNamingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.corruption/-null-byte-naming-strategy-config/index.md)
 
 **See Also**
 
-[NullByteNamingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.corruption/-null-byte-naming-strategy-config.md)
+[NullByteNamingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.corruption/-null-byte-naming-strategy-config/index.md)
 

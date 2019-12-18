@@ -2,9 +2,9 @@
 
 # kotlinMetadataStripping
 
-`open val kotlinMetadataStripping: `[`KotlinMetadataStrippingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.obfuscation/-kotlin-metadata-stripping-strategy-config.md)
+`open val kotlinMetadataStripping: `[`KotlinMetadataStrippingStrategyConfig`](../../site.hackery.paramorphism.api.config.strategies.obfuscation.kotlin/-kotlin-metadata-stripping-strategy-config.md)
 
 **See Also**
 
-[KotlinMetadataStrippingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.obfuscation/-kotlin-metadata-stripping-strategy-config.md)
+[KotlinMetadataStrippingStrategyConfig](../../site.hackery.paramorphism.api.config.strategies.obfuscation.kotlin/-kotlin-metadata-stripping-strategy-config.md)
 

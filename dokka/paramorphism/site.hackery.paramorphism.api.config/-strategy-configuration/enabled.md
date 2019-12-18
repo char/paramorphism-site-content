@@ -2,9 +2,9 @@
 
 # enabled
 
-`open val enabled: `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+`open val enabled: `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)`?`
 
 Defines whether this strategy should be used.
 
-Defaults to `true`.
+When returning null, use the default calculation for strategy state
 
